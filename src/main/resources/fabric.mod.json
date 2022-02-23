@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "foecore",
+  "version": "${version}",
+
+  "name": "FOE Core",
+  "description": "A core mod for FOE Studios. Will add small fixes to vanilla gameplay as well, check for compatibility.",
+  "authors": [
+    "Haladie"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/foecore/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.haladie.foecore.FOECore"
+    ]
+  },
+  "mixins": [
+    "foecore.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
