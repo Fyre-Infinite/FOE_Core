@@ -20,8 +20,7 @@ public class ModItems {
         return Registry.register(Registry.ITEM, new Identifier(FOECore.MOD_ID, name), item);
     }
 
-    public static void registerModItems()
-    {
+    public static void registerModItems() {
         FOECore.LOGGER.info("Registering Mod Items for " + FOECore.MOD_ID);
     }
 }

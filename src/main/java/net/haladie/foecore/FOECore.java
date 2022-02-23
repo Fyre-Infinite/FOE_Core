@@ -1,6 +1,7 @@
 package net.haladie.foecore;
 
 import net.fabricmc.api.ModInitializer;
+import net.haladie.foecore.block.ModBlocks;
 import net.haladie.foecore.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -13,5 +14,6 @@ public class FOECore implements ModInitializer
 	public void onInitialize()
 	{
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
