@@ -2,5 +2,9 @@
   "item.foecore.mythril_ingot": "Mythril Ingot",
   "item.foecore.mythril_nugget": "Mythril Nugget",
   "item.foecore.raw_mythril": "Raw Mythril",
-  "block.foecore.mythril_block": "Block of Mythril"
+  "block.foecore.mythril_block": "Block of Mythril",
+  "block.foecore.raw_mythril_block": "Block of Raw Mythril",
+  "block.foecore.mythril_ore": "Mythril Ore",
+  "block.foecore.deepslate_mythril_ore": "Deepslate Mythril Ore",
+  "block.foecore.netherrack_mythril_ore": "Netherrack Mythril Ore"
 }
