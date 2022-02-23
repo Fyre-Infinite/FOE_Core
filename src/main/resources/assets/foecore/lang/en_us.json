@@ -1,3 +1,5 @@
 {
-  "item.foednd.mythril_ingot": "Mythril Ingot"
+  "item.foecore.mythril_ingot": "Mythril Ingot",
+  "item.foecore.mythril_nugget": "Mythril Nugget",
+  "item.foecore.raw_mythril": "Raw Mythril"
 }

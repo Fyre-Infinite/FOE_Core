@@ -2,6 +2,6 @@
   "parent": "item/generated",
   "textures":
   {
-      "layer0": "foecore:item/mythril_ingot"
+      "layer0": "foecore:item/raw_mythril"
   }
 }
