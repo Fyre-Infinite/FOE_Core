@@ -1,10 +1,56 @@
 {
+// Pure Metal Ingots
   "item.foecore.mythril_ingot": "Mythril Ingot",
+  "item.foecore.silver_ingot": "Silver Ingot",
+  "item.foecore.electrum_ingot": "Electrum Ingot",
+  "item.foecore.platinum_ingot": "Platinum Ingot",
+  "item.foecore.lead_ingot": "Lead Ingot",
+  "item.foecore.tin_ingot": "Tin Ingot",
+
+// Metal Variants or Alloys
+  "item.foecore.adamantine_ingot": "Adamantine Ingot",
+  "item.foecore.brass_ingot": "Brass Ingot",
+  "item.foecore.bronze_ingot": "Bronze Ingot",
+  "item.foecore.steel_ingot": "Steel Ingot",
+  "item.foecore.cold_iron_ingot": "Cold Iron Ingot",
+
+// Pure Metal Nuggets
   "item.foecore.mythril_nugget": "Mythril Nugget",
+  "item.foecore.silver_nugget": "Silver Nugget",
+  "item.foecore.electrum_nugget": "Electrum Nugget",
+  "item.foecore.platinum_nugget": "Platinum Nugget",
+  "item.foecore.lead_nugget": "Lead Nugget",
+  "item.foecore.tin_nugget": "Tin Nugget",
+
+// Metal Variant or Alloy Nuggets
+  "item.foecore.adamantine_nugget": "Adamantine Nugget",
+  "item.foecore.brass_nugget": "Brass Nugget",
+  "item.foecore.bronze_nugget": "Bronze Nugget",
+  "item.foecore.steel_nugget": "Steel Nugget",
+  "item.foecore.cold_iron_nugget": "Cold Iron Nugget",
+
+// Raw Pure Metal
   "item.foecore.raw_mythril": "Raw Mythril",
+  "item.foecore.raw_silver": "Raw Silver",
+  "item.foecore.raw_electrum": "Raw Electrum",
+  "item.foecore.raw_platinum": "Raw Platinum",
+  "item.foecore.raw_lead": "Raw Lead",
+  "item.foecore.raw_tin": "Raw Tin",
+
+// Metal Blocks
   "block.foecore.mythril_block": "Block of Mythril",
+
+// Raw Metal Blocks
   "block.foecore.raw_mythril_block": "Block of Raw Mythril",
+
+// Metal Ore Blocks
   "block.foecore.mythril_ore": "Mythril Ore",
+
+// Metal Deepslate Ore Blocks
   "block.foecore.deepslate_mythril_ore": "Deepslate Mythril Ore",
+
+// Metal Netherrack Ore Blocks
   "block.foecore.netherrack_mythril_ore": "Netherrack Mythril Ore"
+
+// Make sure this last entry doesn't have a comma
 }
