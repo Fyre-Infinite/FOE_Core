@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "foecore:block/deepslate_electrum_ore"
+  }
+}

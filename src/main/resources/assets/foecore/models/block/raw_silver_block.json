@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "foecore:block/raw_silver_block"
+  }
+}

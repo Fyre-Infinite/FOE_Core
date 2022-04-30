@@ -39,18 +39,48 @@
 
 // Metal Blocks
   "block.foecore.mythril_block": "Block of Mythril",
+  "block.foecore.silver_block": "Block of Silver",
+  "block.foecore.electrum_block": "Block of Electrum",
+  "block.foecore.platinum_block": "Block of Platinum",
+  "block.foecore.lead_block": "Block of Lead",
+  "block.foecore.tin_block": "Block of Tin",
+  "block.foecore.adamantine_block": "Block of Adamantine",
+  "block.foecore.brass_block": "Block of Brass",
+  "block.foecore.bronze_block": "Block of Bronze",
+  "block.foecore.steel_block": "Block of Steel",
+  "block.foecore.cold_iron_block": "Block of Cold Iron",
 
 // Raw Metal Blocks
   "block.foecore.raw_mythril_block": "Block of Raw Mythril",
+  "block.foecore.raw_silver_block": "Block of Raw Silver",
+  "block.foecore.raw_platinum_block": "Block of Raw Platinum",
+  "block.foecore.raw_electrum_block": "Block of Raw Electrum",
+  "block.foecore.raw_lead_block": "Block of Raw Lead",
+  "block.foecore.raw_tin_block": "Block of Raw Tin",
 
 // Metal Ore Blocks
   "block.foecore.mythril_ore": "Mythril Ore",
+  "block.foecore.silver_ore": "Silver Ore",
+  "block.foecore.electrum_ore": "Electrum Ore",
+  "block.foecore.platinum_ore": "Platinum Ore",
+  "block.foecore.lead_ore": "Lead Ore",
+  "block.foecore.tin_ore": "Tin Ore",
 
 // Metal Deepslate Ore Blocks
   "block.foecore.deepslate_mythril_ore": "Deepslate Mythril Ore",
+  "block.foecore.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.foecore.deepslate_electrum_ore": "Deepslate Electrum Ore",
+  "block.foecore.deepslate_platinum_ore": "Deepslate Platinum Ore",
+  "block.foecore.deepslate_lead_ore": "Deepslate Lead Ore",
+  "block.foecore.deepslate_tin_ore": "Deepslate Tin Ore",
 
 // Metal Netherrack Ore Blocks
-  "block.foecore.netherrack_mythril_ore": "Netherrack Mythril Ore"
+  "block.foecore.netherrack_mythril_ore": "Netherrack Mythril Ore",
+  "block.foecore.netherrack_silver_ore": "Netherrack Silver Ore",
+  "block.foecore.netherrack_platinum_ore": "Netherrack Platinum Ore",
+  "block.foecore.netherrack_electrum_ore": "Netherrack Electrum Ore",
+  "block.foecore.netherrack_lead_ore": "Netherrack Lead Ore",
+  "block.foecore.netherrack_tin_ore": "Netherrack Tin Ore"
 
 // Make sure this last entry doesn't have a comma
 }
