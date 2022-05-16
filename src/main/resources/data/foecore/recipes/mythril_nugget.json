@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foecore:mythril_ingot"
+    }
+  ],
+  "result": {
+    "item": "foecore:mythril_nugget",
+    "count": 9
+  }
+}

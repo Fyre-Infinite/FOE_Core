@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "adamantine_ingot",
+  "ingredients": [
+    {
+      "item": "foecore:adamantine_block"
+    }
+  ],
+  "result": {
+    "item": "foecore:adamantine_ingot",
+    "count": 9
+  }
+}

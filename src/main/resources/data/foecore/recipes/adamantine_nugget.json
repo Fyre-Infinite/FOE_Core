@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foecore:adamantine_ingot"
+    }
+  ],
+  "result": {
+    "item": "foecore:adamantine_nugget",
+    "count": 9
+  }
+}

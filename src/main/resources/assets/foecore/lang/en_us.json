@@ -1,4 +1,7 @@
 {
+// Tabs
+  "itemGroup.foecore.metals": "Metals",
+
 // Pure Metal Ingots
   "item.foecore.mythril_ingot": "Mythril Ingot",
   "item.foecore.silver_ingot": "Silver Ingot",
@@ -74,13 +77,13 @@
   "block.foecore.deepslate_lead_ore": "Deepslate Lead Ore",
   "block.foecore.deepslate_tin_ore": "Deepslate Tin Ore",
 
-// Metal Netherrack Ore Blocks
-  "block.foecore.netherrack_mythril_ore": "Netherrack Mythril Ore",
-  "block.foecore.netherrack_silver_ore": "Netherrack Silver Ore",
-  "block.foecore.netherrack_platinum_ore": "Netherrack Platinum Ore",
-  "block.foecore.netherrack_electrum_ore": "Netherrack Electrum Ore",
-  "block.foecore.netherrack_lead_ore": "Netherrack Lead Ore",
-  "block.foecore.netherrack_tin_ore": "Netherrack Tin Ore"
+// Metal Nether Ore Blocks
+  "block.foecore.nether_mythril_ore": "Nether Mythril Ore",
+  "block.foecore.nether_silver_ore": "Nether Silver Ore",
+  "block.foecore.nether_platinum_ore": "Nether Platinum Ore",
+  "block.foecore.nether_electrum_ore": "Nether Electrum Ore",
+  "block.foecore.nether_lead_ore": "Nether Lead Ore",
+  "block.foecore.nether_tin_ore": "Nether Tin Ore"
 
 // Make sure this last entry doesn't have a comma
 }

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foecore:raw_tin_block"
+    }
+  ],
+  "result": {
+    "item": "foecore:raw_tin",
+    "count": 9
+  }
+}

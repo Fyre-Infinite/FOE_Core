@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "foecore:electrum_ingot"
+    }
+  },
+  "result": {
+    "item": "foecore:electrum_block"
+  }
+}

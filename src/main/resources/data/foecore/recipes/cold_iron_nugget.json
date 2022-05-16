@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foecore:cold_iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "foecore:cold_iron_nugget",
+    "count": 9
+  }
+}

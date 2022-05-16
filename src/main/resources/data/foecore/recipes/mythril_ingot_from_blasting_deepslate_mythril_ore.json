@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "mythril_ingot",
+  "ingredient": {
+    "item": "foecore:deepslate_mythril_ore"
+  },
+  "result": "foecore:mythril_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}
