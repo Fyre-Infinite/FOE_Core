@@ -1,0 +1,46 @@
+{
+  "replace": false,
+  "values": [
+        "foecore:electrum_block",
+        "foecore:electrum_ore",
+        "foecore:nether_electrum_ore",
+        "foecore:deepslate_electrum_ore",
+        "foecore:raw_electrum_block",
+
+        "foecore:tin_block",
+        "foecore:tin_ore",
+        "foecore:nether_tin_ore",
+        "foecore:deepslate_tin_ore",
+        "foecore:raw_tin_block",
+
+        "foecore:lead_block",
+        "foecore:lead_ore",
+        "foecore:nether_lead_ore",
+        "foecore:deepslate_lead_ore",
+        "foecore:raw_lead_block",
+
+        "foecore:mythril_block",
+        "foecore:mythril_ore",
+        "foecore:nether_mythril_ore",
+        "foecore:deepslate_mythril_ore",
+        "foecore:raw_mythril_block",
+
+        "foecore:silver_block",
+        "foecore:silver_ore",
+        "foecore:nether_silver_ore",
+        "foecore:deepslate_silver_ore",
+        "foecore:raw_silver_block",
+
+        "foecore:platinum_block",
+        "foecore:platinum_ore",
+        "foecore:nether_platinum_ore",
+        "foecore:deepslate_platinum_ore",
+        "foecore:raw_platinum_block",
+
+        "foecore:brass_block",
+        "foecore:bronze_block",
+        "foecore:cold_iron_block",
+        "foecore:adamantine_block",
+        "foecore:steel_block"
+  ]
+}

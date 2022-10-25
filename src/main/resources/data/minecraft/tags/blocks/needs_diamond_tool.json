@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "foecore:adamantine_block",
+        "foecore:steel_block"
+    ]
+}

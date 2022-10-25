@@ -1,0 +1,28 @@
+{
+    "replace": false,
+    "values": [
+        "foecore:mythril_block",
+        "foecore:mythril_ore",
+        "foecore:nether_mythril_ore",
+        "foecore:deepslate_mythril_ore",
+        "foecore:raw_mythril_block",
+
+        "foecore:silver_block",
+        "foecore:silver_ore",
+        "foecore:nether_silver_ore",
+        "foecore:deepslate_silver_ore",
+        "foecore:raw_silver_block",
+
+        "foecore:platinum_block",
+        "foecore:platinum_ore",
+        "foecore:nether_platinum_ore",
+        "foecore:deepslate_platinum_ore",
+        "foecore:raw_platinum_block",
+
+        "foecore:brass_block",
+
+        "foecore:bronze_block",
+
+        "foecore:cold_iron_block"
+    ]
+}

@@ -15,83 +15,83 @@ import net.minecraft.util.registry.Registry;
 public class ModBlocks {
 // Metal Blocks
     public static final Block MYTHRIL_BLOCK = registerBlock("mythril_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block SILVER_BLOCK = registerBlock("silver_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block ELECTRUM_BLOCK = registerBlock("electrum_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block PLATINUM_BLOCK = registerBlock("platinum_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block LEAD_BLOCK = registerBlock("lead_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block TIN_BLOCK = registerBlock("tin_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block ADAMANTINE_BLOCK = registerBlock("adamantine_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block BRASS_BLOCK = registerBlock("brass_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block BRONZE_BLOCK = registerBlock("bronze_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block STEEL_BLOCK = registerBlock("steel_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block COLD_IRON_BLOCK = registerBlock("cold_iron_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
 
 // Metal Ores
     public static final Block MYTHRIL_ORE = registerBlock("mythril_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block SILVER_ORE = registerBlock("silver_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block ELECTRUM_ORE = registerBlock("electrum_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block PLATINUM_ORE = registerBlock("platinum_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block LEAD_ORE = registerBlock("lead_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block TIN_ORE = registerBlock("tin_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
 
 // Metal Netherrack Ores
     public static final Block NETHER_MYTHRIL_ORE = registerBlock("nether_mythril_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block NETHER_SILVER_ORE = registerBlock("nether_silver_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block NETHER_ELECTRUM_ORE = registerBlock("nether_electrum_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block NETHER_PLATINUM_ORE = registerBlock("nether_platinum_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block NETHER_LEAD_ORE = registerBlock("nether_lead_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block NETHER_TIN_ORE = registerBlock("nether_tin_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
 
 // Metal Deepslate Ore
     public static final Block DEEPSLATE_MYTHRIL_ORE = registerBlock("deepslate_mythril_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block DEEPSLATE_SILVER_ORE = registerBlock("deepslate_silver_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block DEEPSLATE_ELECTRUM_ORE = registerBlock("deepslate_electrum_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block DEEPSLATE_PLATINUM_ORE = registerBlock("deepslate_platinum_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block DEEPSLATE_LEAD_ORE = registerBlock("deepslate_lead_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block DEEPSLATE_TIN_ORE = registerBlock("deepslate_tin_ore",
-            new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.METALS);
 
 // Raw Metal Blocks
     public static final Block RAW_MYTHRIL_BLOCK = registerBlock("raw_mythril_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block RAW_SILVER_BLOCK = registerBlock("raw_silver_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block RAW_ELECTRUM_BLOCK = registerBlock("raw_electrum_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block RAW_PLATINUM_BLOCK = registerBlock("raw_platinum_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block RAW_LEAD_BLOCK = registerBlock("raw_lead_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
     public static final Block RAW_TIN_BLOCK = registerBlock("raw_tin_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroup.METALS);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.METALS);
 
 
 
